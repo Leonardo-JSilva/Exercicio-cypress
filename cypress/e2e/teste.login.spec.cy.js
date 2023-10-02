@@ -1,4 +1,11 @@
+///<reference types="cypress" />
+
+
+
+
 describe('teste Login', () => {
+
+
 
   beforeEach(() => {
     cy.visit('http://lojaebac.ebaconline.art.br/minha-conta/')
@@ -20,7 +27,7 @@ describe('teste Login', () => {
     cy.get('.woocommerce-error > li').should('contain', 'Endereço de e-mail desconhecido. Verifique novamente ou tente seu nome de usuário.')
 
   })
-
+    
   it('Deve exibir uma mensagem de erro ao inserir usuario ou senha invalidos', () => {
     cy.get('#username').type('Aluno.teste.cypress@teste.com')
     cy.get('#password').type('Teste.Teste@teste.com')

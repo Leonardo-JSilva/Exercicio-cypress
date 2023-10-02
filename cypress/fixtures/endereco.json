@@ -1,0 +1,42 @@
+[
+{
+"nome": "Luana",
+"sobrenome": "Amaral",
+"empresa": "Ebac",
+"pais":"Brasil",
+"endereco":"Rua Zavala",
+"numero":"990",
+"cidade":"São Paulo",
+"estado":"São Paulo",
+"cep":"099-090909",
+"telefone":"1142422526"
+},
+
+{
+    "nome": "Gabriela",
+    "sobrenome": "Alves",
+    "empresa": "Ebac",
+    "pais":"Brasil",
+    "endereco":"Rua Destny",
+    "numero":"767",
+    "cidade":"São Paulo",
+    "estado":"São Paulo",
+    "cep":"082-82190",
+    "telefone":"1112181525"
+},
+
+{
+    "nome": "Eliane",
+    "sobrenome": "Smith",
+    "empresa": "Netflix",
+    "pais":"Brasil",
+    "endereco":"Rua Adolfo suarez",
+    "numero":"166",
+    "cidade":"São Paulo",
+    "estado":"São Paulo",
+    "cep":"012-162162",
+    "telefone":"1124152319"
+}
+
+
+]
