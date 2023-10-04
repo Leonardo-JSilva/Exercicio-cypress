@@ -22,7 +22,7 @@ describe('Funcionalidade endereços - Faturamento e entrega', () => {
       dadosEndereco[0].sobrenome,
       dadosEndereco[0].empresa,
       dadosEndereco[0].pais,
-      dadosEndereco[0].endreco,
+      dadosEndereco[0].endereco,
       dadosEndereco[0].numero,
       dadosEndereco[0].cidade,
       dadosEndereco[0].estado,
